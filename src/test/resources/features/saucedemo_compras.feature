@@ -1,4 +1,3 @@
-# language: es
 @SauceDemo
 Característica: Pruebas de compra y flujo de usuario en SauceDemo Móvil
   Como analista de pruebas de la empresa ACME
