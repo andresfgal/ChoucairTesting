@@ -5,7 +5,7 @@
 **Fecha de ejecución:** 21 de octubre de 2026
 **Resultado general:** pruebas funcionales y responsivas aprobadas; Lighthouse identifica oportunidades de mejora no bloqueantes.
 
-## Resumen ejecutivo
+## Resumen
 
 - Pruebas funcionales: **3 aprobadas, 0 fallidas**.
 - Pruebas de responsividad: **1 aprobada, 0 fallidas** en tres navegadores.
